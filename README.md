@@ -42,3 +42,13 @@ Welcome to STACHAR, your one-stop solution for e-KYC (electronic Know Your Custo
 * End
    ![WhatsApp Image 2024-03-14 at 18 42 02 (2)](https://github.com/ParnishSharma/stachar/assets/100596002/64119e15-85ab-4dc9-b0a9-caf04b1af66b)
 
+* Getting Data extracted from the image using OCR technology
+* ![image](https://github.com/ayushgi/E-kyc-/assets/100596002/0527c9bd-9c60-4969-8634-e772ef0e22da)
+
+
+
+* Uploaded image by user
+* ![image](https://github.com/ayushgi/E-kyc-/assets/100596002/8638509f-dd1a-43d3-932b-45b87e8f5c94)
+
+
+
